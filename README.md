@@ -22,7 +22,7 @@ EJS Layouts: Enhance your frontend development using EJS templates with Express 
 Global Variables: Simplify rendering dynamic content by using global variables for success and error messages.
 
 Getting Started
-Clone this repository: git clone https://github.com/your-username/express-auth-boilerplate.git
+Clone this repository: git clone https://github.com/MohammedSalman999/express-auth-boilerplate.git
 Install dependencies: npm install
 Set up your MongoDB URI in config/keys.js.
 Customize your authentication strategies in config/passport.js.
